@@ -15,9 +15,6 @@ This solution automates the employee onboarding process using Power Platform. Bu
 - Task assignment
 - Internal tracking
 
-## 📷 Screenshots
-*Add screenshots here*
-
 ## 📦 Solution Export
 The full managed solution is available in `/solution` folder.
 
